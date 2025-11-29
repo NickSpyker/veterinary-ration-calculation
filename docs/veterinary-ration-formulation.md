@@ -1,3 +1,5 @@
+> [< back](../README.md)
+
 ## **Veterinary Ration Formulation**
 
 ### **I. Introduction**
@@ -128,3 +130,5 @@ Once the ration is calculated, you must verify the ratios.
 * **Too much Energy?** Reduce Corn/Fat, increase fibrous feeds (Bran, Alfalfa) or lower-energy grains (Oats).
 * **Fiber limit exceeded?** Remove fibrous ingredients (Sunflower meal, Bran) and replace with concentrated sources (Soy, Corn).
 * **Mineral Imbalance?** Adjust specific additives (Carb Ca, Dicalcium Phosphate) without altering the main energy/protein sources.
+
+> [< back](../README.md)
