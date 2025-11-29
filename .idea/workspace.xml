@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba59961c-102c-4fd2-a135-30c43a97e655" name="Changes" comment="Add Veterinary Ration Formulation doc">
+    <list default="true" id="ba59961c-102c-4fd2-a135-30c43a97e655" name="Changes" comment="Format math blocks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/veterinary-ration-formulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/veterinary-ration-formulation.md" afterDir="false" />
     </list>
@@ -67,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764407327699</updated>
       <workItem from="1764407573505" duration="6000" />
-      <workItem from="1764407627777" duration="1109000" />
+      <workItem from="1764407627777" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="Setup python">
       <option name="closed" value="true" />
@@ -85,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764408401373</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Format math blocks">
+      <option name="closed" value="true" />
+      <created>1764408756244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764408756244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup python" />
     <MESSAGE value="Add Veterinary Ration Formulation doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Veterinary Ration Formulation doc" />
+    <MESSAGE value="Format math blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Format math blocks" />
   </component>
 </project>

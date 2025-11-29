@@ -40,7 +40,7 @@ Precision is critical, but biological systems allow for slight deviations.
 
 ### **III. Feed Selection Guidelines**
 
-#### **A. Poultry Ration Rules **
+#### **A. Poultry Ration Rules**
 
 * **Energy Sources:**
     * **Corn:** Mandatory! Inclusion 50–80%.
@@ -53,7 +53,7 @@ Precision is critical, but biological systems allow for slight deviations.
     * **Ca+P:** 1–3% (Higher for laying hens).
     * **Zoofort:** Always 1%.
 
-#### **B. Pig Ration Rules **
+#### **B. Pig Ration Rules**
 
 * **Energy Sources:**
     * **Corn:** 30–80% (Highly advised).
@@ -77,7 +77,7 @@ This is the standard "Exploratory" method used in your worksheets.
 3. **Draft Quantities:** Assign tentative percentages to feeds (e.g., Corn 60%, Soy 20%).
 4. **Calculate Contributions:**
    $$\text{Nutrient Supplied} = \frac{\text{Feed \%} \times \text{Nutrient Value per kg}}{100}$$
-    * *Example:* If Corn has 3370 ME and is 60% of the diet: $0.60 \times 3370 = 2022 \text{ ME}$.
+    * *Example:* If Corn has 3370 ME and is 60% of the diet: $0.60 \times 3370 = 2022 \text{ME}$.
 5. **Sum and Check:** Add up all columns. If the total CP is 15%, but you need 17%, increase protein sources (Soy/Fish meal) and decrease energy sources (Corn) slightly.
 
 #### **B. The Pearson Square Method**
@@ -93,7 +93,7 @@ Use this to balance *one* specific nutrient (usually Protein) using *two* ingred
         * $12 - 9 = 3$ parts Supplement.
     4. **Result:** Mix 28 parts Corn with 3 parts Supplement.
 
-#### **C. Volume/Concentration Mixing **
+#### **C. Volume/Concentration Mixing**
 
 Used when diluting solutions or mixing liquid feeds.
 
@@ -122,7 +122,7 @@ Once the ration is calculated, you must verify the ratios.
     * *Example:* Standard $3200/11 = 290.9$. Calculated $288.3$.
     * **Conclusion:** "Good, in norms".
 
-#### **3. Correction Logic **
+#### **3. Correction Logic**
 
 * **Too much Protein?** Reduce protein-rich feeds (Soy, Fish meal) and increase energy feeds (Corn).
 * **Too much Energy?** Reduce Corn/Fat, increase fibrous feeds (Bran, Alfalfa) or lower-energy grains (Oats).
