@@ -1,0 +1,7 @@
+Animal_ID,Description,ME_Target,CP_Target,Ca_Target,P_Target,Lysine_Target,Tolerance_Pct
+Broiler_Start,Broiler Chicken 0-3w,3000,21,1.0,0.45,1.1,5
+Broiler_Finisher,Broiler Chicken 4w+,3200,19,0.9,0.40,1.0,5
+Laying_Hen,Laying Hen Phase 1,2800,17,3.5,0.40,0.8,5
+Pig_Grower,Growing Pig 20-50kg,3100,16,0.7,0.60,0.9,5
+Sow_Lactating,Lactating Sow,3300,15,0.9,0.70,0.85,5
+Dairy_Cow,Dairy Cow 600kg 20L,2600,14,0.6,0.40,0.0,10

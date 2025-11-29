@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba59961c-102c-4fd2-a135-30c43a97e655" name="Changes" comment="Fix typo">
-      <change afterPath="$PROJECT_DIR$/docs/specifications.md" afterDir="false" />
+    <list default="true" id="ba59961c-102c-4fd2-a135-30c43a97e655" name="Changes" comment="Add specifications">
+      <change afterPath="$PROJECT_DIR$/data/feeds.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/standards.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/veterinary-ration-formulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/veterinary-ration-formulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
     "Python.Run.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -69,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764407327699</updated>
       <workItem from="1764407573505" duration="6000" />
-      <workItem from="1764407627777" duration="2262000" />
+      <workItem from="1764407627777" duration="3153000" />
     </task>
     <task id="LOCAL-00001" summary="Setup python">
       <option name="closed" value="true" />
@@ -103,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764408921629</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add specifications">
+      <option name="closed" value="true" />
+      <created>1764409917788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764409917788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +123,7 @@
     <MESSAGE value="Add Veterinary Ration Formulation doc" />
     <MESSAGE value="Format math blocks" />
     <MESSAGE value="Fix typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix typo" />
+    <MESSAGE value="Add specifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add specifications" />
   </component>
 </project>

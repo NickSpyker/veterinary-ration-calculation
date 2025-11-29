@@ -1,0 +1,11 @@
+Feed_ID,Name,Category,ME_per_kg,CP_Pct,Ca_Pct,P_Pct,Lysine_Pct,Max_Inclusion_Pct
+Corn,Yellow Corn,Energy,3370,9.0,0.02,0.28,0.24,80
+Wheat,Wheat Grain,Energy,3050,11.5,0.05,0.30,0.32,50
+Soy,Soybean Meal 44%,Protein,2230,44.0,0.27,0.64,2.80,35
+FishMeal,Fish Meal 65%,Protein,2800,65.0,4.50,2.50,5.00,5
+Bran,Wheat Bran,Roughage,1800,15.0,0.12,0.90,0.55,15
+Alfalfa,Alfalfa Hay,Roughage,1900,17.0,1.40,0.25,0.80,40
+Chalk,Calcium Carbonate,Mineral,0,0.0,38.00,0.00,0.00,3
+DCP,Dicalcium Phosphate,Mineral,0,0.0,24.00,18.00,0.00,2
+Premix,Vitamin Mineral Premix,Mineral,0,0.0,0.00,0.00,0.00,1
+Oil,Sunflower Oil,Energy,8800,0.0,0.00,0.00,0.00,5
